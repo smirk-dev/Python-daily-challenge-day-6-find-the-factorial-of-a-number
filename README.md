@@ -14,8 +14,7 @@ Factorial Finder is an interactive **CLI tool** that calculates **factorials** u
 - **Matplotlib** (for visualization)  
 - **Timeit** (for performance measurement)  
 
-## 📂 Installation & Usage  
-Clone the repository and install dependencies:  
+## Code
 ```python
 import matplotlib.pyplot as plt
 import timeit
